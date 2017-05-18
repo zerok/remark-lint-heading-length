@@ -1,7 +1,7 @@
 # remark-lint-heading-length
 
-This rule for [remark-lint][] enforces that heading have a certain number of
-words. By default, heading must have at least 2 words and at most 10. You can
+This rule for [remark-lint][] enforces that headings have a certain number of
+words. By default, headings must have at least 2 words and at most 10. You can
 configure this length like this:
 
 ```
